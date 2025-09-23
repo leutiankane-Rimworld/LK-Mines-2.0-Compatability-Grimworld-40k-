@@ -7,7 +7,7 @@
       <value>
         <li Class="MinesAutomatedExtension.MineableSettings">
     <researchPrerequisites>
-        <li>MinesAutomated_ResearchProjectDef_minecraft</li>
+        <li>GW_GrimworldMaterials</li>
     </researchPrerequisites>
     <workOffset>200</workOffset>
     <mineableYield>10</mineableYield>
@@ -19,7 +19,7 @@
       <value>
         <li Class="MinesAutomatedExtension.MineableSettings">
     <researchPrerequisites>
-        <li>MinesAutomated_ResearchProjectDef_minecraft</li>
+        <li>GW_AdvancedGrimworldMaterials</li>
     </researchPrerequisites>
     <workOffset>200</workOffset>
     <mineableYield>10</mineableYield>
@@ -31,7 +31,7 @@
       <value>
         <li Class="MinesAutomatedExtension.MineableSettings">
     <researchPrerequisites>
-        <li>MinesAutomated_ResearchProjectDef_minecraft</li>
+        <li>GW_GrimworldMaterials</li>
     </researchPrerequisites>
     <workOffset>200</workOffset>
     <mineableYield>10</mineableYield>
@@ -43,7 +43,7 @@
       <value>
         <li Class="MinesAutomatedExtension.MineableSettings">
     <researchPrerequisites>
-        <li>MinesAutomated_ResearchProjectDef_minecraft</li>
+        <li>GW_AdvancedGrimworldMaterials</li>
     </researchPrerequisites>
     <workOffset>200</workOffset>
     <mineableYield>10</mineableYield>
@@ -55,7 +55,7 @@
       <value>
         <li Class="MinesAutomatedExtension.MineableSettings">
     <researchPrerequisites>
-        <li>MinesAutomated_ResearchProjectDef_minecraft</li>
+        <li>GW_AdvancedGrimworldMaterials</li>
     </researchPrerequisites>
     <workOffset>200</workOffset>
     <mineableYield>10</mineableYield>
@@ -67,7 +67,7 @@
       <value>
         <li Class="MinesAutomatedExtension.MineableSettings">
     <researchPrerequisites>
-        <li>MinesAutomated_ResearchProjectDef_minecraft</li>
+        <li>GW_AdvancedGrimworldMaterials</li>
     </researchPrerequisites>
     <workOffset>200</workOffset>
     <mineableYield>10</mineableYield>
@@ -79,7 +79,7 @@
       <value>
         <li Class="MinesAutomatedExtension.MineableSettings">
     <researchPrerequisites>
-        <li>MinesAutomated_ResearchProjectDef_minecraft</li>
+        <li>GW_Cogitator</li>
     </researchPrerequisites>
     <workOffset>200</workOffset>
     <mineableYield>10</mineableYield>
@@ -87,3 +87,4 @@
       </value>
   </Operation>	
 </Patch>
+
